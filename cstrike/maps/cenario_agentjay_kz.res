@@ -1,0 +1,16 @@
+cenario_soy_agentjay.wad
+maps/cenario_soy_agentjay_kz_v2.txt
+maps/cenario_soy_agentjay_kz_v2.res
+models/cenario_jay_kz/barricade_wire.mdl
+models/cenario_jay_kz/bg_antenna.mdl
+models/cenario_jay_kz/bg_antenna_big.mdl
+models/cenario_jay_kz/bg_outcity02.mdl
+models/cenario_jay_kz/bg_rubble_set.mdl
+models/cenario_jay_kz/brokenwall01.mdl
+models/cenario_jay_kz/clt_Llight.mdl
+models/cenario_jay_kz/clt_smalllight_r.mdl
+models/cenario_jay_kz/navalgun.mdl
+models/cenario_jay_kz/trash_05.mdl
+models/cenario_jay_kz/tree_pine.mdl
+models/cenario_jay_kz/zb_radar.mdl
+sprites/cenario_jay_kz/flame2.spr
