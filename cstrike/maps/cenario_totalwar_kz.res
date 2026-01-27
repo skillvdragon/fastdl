@@ -1,0 +1,17 @@
+gfx/env/decoybk.tga
+gfx/env/decoydn.tga
+gfx/env/decoyft.tga
+gfx/env/decoylf.tga
+gfx/env/decoyrt.tga
+gfx/env/decoyup.tga
+models/bg_plight.mdl
+models/brokenwall01.mdl
+models/train_wheels.mdl
+models/zp_boss_totalwar/car_mini_gold_wreck.mdl
+models/zp_boss_totalwar/clt_topmonitor.mdl
+models/zp_boss_totalwar/navalgun_bg.mdl
+models/zp_boss_totalwar/zs71_damaged_dome.mdl
+models/zp_boss_totalwar/zs71_damaged_pillar01.mdl
+models/zp_boss_totalwar/zsh_turret_bg.mdl
+sprites/flame1.spr
+sprites/flame2.spr

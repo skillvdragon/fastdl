@@ -1,0 +1,12 @@
+maps/cenario_mrx_fixed_kz.txt
+maps/cenario_mrx_fixed_kz.res
+gfx/env/BossSKVDSkybk.tga
+gfx/env/BossSKVDSkyft.tga
+gfx/env/BossSKVDSkylf.tga
+gfx/env/BossSKVDSkyrt.tga
+gfx/env/BossSKVDSkyup.tga
+models/zs_mschoi_boss/52_fence_s.mdl
+models/zs_mschoi_boss/card.mdl
+models/zs_mschoi_boss/cons_bluepipe_04.mdl
+models/zs_mschoi_boss/cons_yellowpipe_06.mdl
+models/zs_mschoi_boss/metro_light_red.mdl

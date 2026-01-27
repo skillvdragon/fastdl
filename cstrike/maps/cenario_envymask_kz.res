@@ -1,0 +1,14 @@
+models/cenario_envymask/bg_antenna.mdl
+models/cenario_envymask/bg_fence_group.mdl
+models/cenario_envymask/bg_plight.mdl
+models/cenario_envymask/blackhawk_high.mdl
+models/cenario_envymask/helicopter_cargo-russian.mdl
+models/cenario_envymask/humv-gun.mdl
+models/cenario_envymask/osprey2.mdl
+models/cenario_envymask/tank.mdl
+models/cenario_envymask/truck_large-green.mdl
+sprites/cenario_envymask/3dmflagld.spr
+sprites/cenario_envymask/3dmflaora.spr
+sprites/cenario_envymask/3dmflared.spr
+sprites/cenario_envymask/glow03.spr
+cenario_envymask.wad
