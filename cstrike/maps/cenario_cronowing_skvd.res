@@ -1,0 +1,10 @@
+maps/zs_cronowing_skvd.txt
+maps/zs_cronowing_skvd.res
+gfx/env/CronowingSkybk.tga
+gfx/env/CronowingSkyft.tga
+gfx/env/CronowingSkylf.tga
+gfx/env/CronowingSkyrt.tga
+gfx/env/CronowingSkyup.tga
+models/zs_cronowing_skvd/anthena.mdl
+models/zs_cronowing_skvd/barricade_wire.mdl
+models/zs_cronowing_skvd/lamp_portable_standup.mdl
